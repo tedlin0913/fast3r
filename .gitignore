@@ -159,3 +159,6 @@ configs/local/default.yaml
 
 # Aim logging
 .aim
+temp*/
+demo_outputs/
+gradio_tmp_dir/
